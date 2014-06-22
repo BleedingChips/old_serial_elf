@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="poserial" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/poserial" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/poserial" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Os" />
+			<Add directory="include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="libSDL2main.a" />
+			<Add library="libSDL2.a" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add library="opengl32" />
+			<Add library="GLU32" />
+			<Add library="libSDL2_ttf.a" />
+			<Add library="libSDL2_image.a" />
+			<Add directory="lib" />
+		</Linker>
+		<Unit filename="po/baseclass.h" />
+		<Unit filename="po/dialog.h" />
+		<Unit filename="po/dialogmt.h" />
+		<Unit filename="po/dialogmtnew.h" />
+		<Unit filename="po/editframe.h" />
+		<Unit filename="po/extrabuffer.h" />
+		<Unit filename="po/fontmanager.h" />
+		<Unit filename="po/glsimplify.h" />
+		<Unit filename="po/gltexture.h" />
+		<Unit filename="po/handle.h" />
+		<Unit filename="po/information.h" />
+		<Unit filename="po/informationpool.h" />
+		<Unit filename="po/informationviewer.h" />
+		<Unit filename="po/language.h" />
+		<Unit filename="po/picturemanager.h" />
+		<Unit filename="po/plugin.h" />
+		<Unit filename="po/po.h" />
+		<Unit filename="po/poerror.h" />
+		<Unit filename="po/pogenvironment.h" />
+		<Unit filename="po/pologic.h" />
+		<Unit filename="po/pomutex.h" />
+		<Unit filename="po/popicture.h" />
+		<Unit filename="po/popublic.h" />
+		<Unit filename="po/porender.cpp" />
+		<Unit filename="po/porender.h" />
+		<Unit filename="po/potext.h" />
+		<Unit filename="po/scriptionanalyze.h" />
+		<Unit filename="po/scriptionblock.h" />
+		<Unit filename="po/scriptioncomment.h" />
+		<Unit filename="po/scriptionoperator.h" />
+		<Unit filename="po/scriptionseparate.h" />
+		<Unit filename="po/sdleventtoinformation.h" />
+		<Unit filename="po/staticdialog.h" />
+		<Unit filename="po/threadmessage.h" />
+		<Unit filename="po/threadpart.h" />
+		<Unit filename="po/threadunit.h" />
+		<Unit filename="po/utf8string.h" />
+		<Unit filename="poextre/poserial.h" />
+		<Unit filename="poextre/poserialreport.h" />
+		<Unit filename="poextre/serialteminal.h" />
+		<Unit filename="poextre/serialtype.h" />
+		<Unit filename="poextre/teminaldata.h" />
+		<Unit filename="poextre/winserialport.h" />
+		<Unit filename="poserial.h" />
+		<Unit filename="textpicture.h" />
+		<Unit filename="textserial.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

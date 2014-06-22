@@ -1,0 +1,1968 @@
+# depslib dependency file v1.0
+1389433528 source:c:\users\薯条工作室\desktop\poserial\textserial.cpp
+	<iostream>
+	"textpicture.h"
+	"poserial.h"
+
+1389242496 c:\users\薯条工作室\desktop\poserial\po\po.h
+	"pologic.h"
+	"porender.h"
+	<string>
+	<map>
+
+1388723663 c:\users\薯条工作室\desktop\poserial\po\pologic.h
+	"popublic.h"
+	"pogenvironment.h"
+	"informationpool.h"
+	"plugin.h"
+
+1388723661 c:\users\薯条工作室\desktop\poserial\po\popublic.h
+	"plugin.h"
+	"extrabuffer.h"
+	"informationpool.h"
+	"threadmessage.h"
+
+1388723662 c:\users\薯条工作室\desktop\poserial\po\plugin.h
+	"handle.h"
+	"threadunit.h"
+	"informationviewer.h"
+
+1388819980 c:\users\薯条工作室\desktop\poserial\po\handle.h
+	<stdio.h>
+
+1388723662 c:\users\薯条工作室\desktop\poserial\po\threadunit.h
+	"pomutex.h"
+	<list>
+	"information.h"
+	"threadmessage.h"
+	"threadpart.h"
+
+1388723663 c:\users\薯条工作室\desktop\poserial\po\pomutex.h
+	<SDL2/SDL_mutex.h>
+
+1389357135 c:\users\薯条工作室\desktop\poserial\po\information.h
+	<list>
+	<string>
+	<vector>
+	<map>
+	<SDL2/SDL_events.h>
+	"handle.h"
+
+1388723662 c:\users\薯条工作室\desktop\poserial\po\threadmessage.h
+	"threadpart.h"
+	<deque>
+
+1388723662 c:\users\薯条工作室\desktop\poserial\po\threadpart.h
+	<deque>
+
+1388723663 c:\users\薯条工作室\desktop\poserial\po\informationviewer.h
+	"information.h"
+	<list>
+	<string>
+	<deque>
+	<map>
+	<set>
+	"informationpool.h"
+
+1388723663 c:\users\薯条工作室\desktop\poserial\po\informationpool.h
+	<set>
+	<deque>
+	"information.h"
+
+1389270643 c:\users\薯条工作室\desktop\poserial\po\extrabuffer.h
+	"threadpart.h"
+
+1389008710 c:\users\薯条工作室\desktop\poserial\po\pogenvironment.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_opengl.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"poerror.h"
+	"language.h"
+	"picturemanager.h"
+	"fontmanager.h"
+
+1388723663 c:\users\薯条工作室\desktop\poserial\po\poerror.h
+
+1388723661 c:\users\薯条工作室\desktop\poserial\po\language.h
+	<string>
+	<windows.h>
+
+1389344725 c:\users\薯条工作室\desktop\poserial\po\gltexture.h
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_opengl.h>
+
+1388723661 c:\users\薯条工作室\desktop\poserial\po\scriptionanalyze.h
+	<string>
+	<sstream>
+	<deque>
+	<vector>
+
+1389246161 c:\users\薯条工作室\desktop\poserial\po\porender.h
+	<string>
+	<map>
+	"popublic.h"
+	"extrabuffer.h"
+	"threadmessage.h"
+	"pogenvironment.h"
+	"plugin.h"
+
+1389237037 c:\users\薯条工作室\desktop\poserial\po\pottf.h
+	"gltexture.h"
+	"baseclass.h"
+	"fontmanager.h"
+	"handle.h"
+	<sstream>
+
+1388843786 c:\users\薯条工作室\desktop\poserial\po\baseclass.h
+	<math.h>
+	<fstream>
+
+1389268971 c:\users\薯条工作室\desktop\poserial\po\popicture.h
+	<iostream>
+	"gltexture.h"
+	"baseclass.h"
+	"picturemanager.h"
+	<map>
+	<string>
+
+1389357239 c:\users\薯条工作室\desktop\poserial\po\dialogmt.h
+	"handle.h"
+	"dialog.h"
+	"extrabuffer.h"
+	"threadpart.h"
+	"threadmessage.h"
+
+1388723663 c:\users\薯条工作室\desktop\poserial\po\glsimplify.h
+	"baseclass.h"
+
+1387806276 c:\users\薯条工作室\desktop\poserial\po\editframe.h
+	<list>
+	"threadpart.h"
+	"extrabuffer.h"
+	"porender.h"
+	"pottf.h"
+	"information.h"
+
+1389452283 c:\users\薯条工作室\desktop\poserial\poextre\serialteminal.h
+	"poserial.h"
+	"../po/scriptionanalyze.h"
+	"../po/handle.h"
+	"../po/scriptionblock.h"
+	"teminaldata.h"
+	<sstream>
+	<deque>
+	<string>
+
+1388723660 c:\users\薯条工作室\desktop\poserial\poextre\poserial.h
+	<windows.h>
+	"../po/pomutex.h"
+	"../po/scriptionanalyze.h"
+	"winserialport.h"
+	"serialtype.h"
+	<sstream>
+
+1387976135 c:\users\薯条工作室\desktop\poserial\poextre\poserialreport.h
+	"winserialport.h"
+
+1388723663 c:\users\薯条工作室\desktop\poserial\poextre\winserialport.h
+	<string>
+
+1388723662 c:\users\薯条工作室\desktop\poserial\poextre\serialtype.h
+	<sstream>
+	<string>
+
+1388723661 c:\users\薯条工作室\desktop\poserial\po\scriptionblock.h
+	"scriptioncomment.h"
+	"handle.h"
+
+1388723662 c:\users\薯条工作室\desktop\poserial\po\scriptioncomment.h
+	"scriptionoperator.h"
+	<fstream>
+
+1388723662 c:\users\薯条工作室\desktop\poserial\po\scriptionoperator.h
+	"scriptionseparate.h"
+
+1388723662 c:\users\薯条工作室\desktop\poserial\po\scriptionseparate.h
+	<fstream>
+	<string>
+	<map>
+	<list>
+	<fstream>
+	<vector>
+	"scriptionanalyze.h"
+
+1388723663 c:\users\薯条工作室\desktop\poserial\poextre\teminaldata.h
+	"poserial.h"
+
+1388994893 c:\users\薯条工作室\desktop\poserial\po\texturemanager.h
+	<map>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_opengl.h>
+	"gltexture.h"
+
+1389237215 c:\users\薯条工作室\desktop\poserial\po\picturemanager.h
+	<map>
+	<string>
+	"gltexture.h"
+	<SDL2/SDL_image.h>
+
+1389355844 c:\users\薯条工作室\desktop\poserial\po\fontmanager.h
+	<map>
+	<vector>
+	<string>
+	"gltexture.h"
+	"utf8string.h"
+	<SDL2/SDL_ttf.h>
+
+1389342664 c:\users\薯条工作室\desktop\poserial\po\utf8string.h
+	<string>
+	<deque>
+	<list>
+
+1389508275 c:\users\薯条工作室\desktop\poserial\po\dialog.h
+	"potext.h"
+	"language.h"
+	"utf8string.h"
+
+1389246161 source:c:\users\薯条工作室\desktop\poserial\po\porender.cpp
+
+1389242198 c:\users\薯条工作室\desktop\poserial\po\porender.hpp
+	<string>
+	<map>
+	"popublic.h"
+	"extrabuffer.h"
+	"threadmessage.h"
+	"pogenvironment.h"
+	"plugin.h"
+
+1389511798 c:\users\薯条工作室\desktop\poserial\po\potext.h
+	"gltexture.h"
+	"baseclass.h"
+	"fontmanager.h"
+	"handle.h"
+	<sstream>
+
+1389357157 c:\users\薯条工作室\desktop\poserial\textpicture.h
+	"po/po.h"
+	"po/plugin.h"
+	"po/popicture.h"
+	"po/dialogmt.h"
+	"po/glsimplify.h"
+	"po/potext.h"
+	"po/extrabuffer.h"
+	"po/dialog.h"
+
+1389581028 c:\users\薯条工作室\desktop\poserial\poserial.h
+	"po/plugin.h"
+	"po/po.h"
+	"poextre/serialteminal.h"
+	"po/dialogmt.h"
+
+1389246161 source:c:\users\bleedingchips\desktop\poserial\po\porender.cpp
+
+1389433528 source:c:\users\bleedingchips\desktop\poserial\textserial.cpp
+	<iostream>
+	"textpicture.h"
+	"poserial.h"
+
+1389357157 c:\users\bleedingchips\desktop\poserial\textpicture.h
+	"po/po.h"
+	"po/plugin.h"
+	"po/popicture.h"
+	"po/dialogmt.h"
+	"po/glsimplify.h"
+	"po/potext.h"
+	"po/extrabuffer.h"
+	"po/dialog.h"
+
+1389242496 c:\users\bleedingchips\desktop\poserial\po\po.h
+	"pologic.h"
+	"porender.h"
+	<string>
+	<map>
+
+1388723663 c:\users\bleedingchips\desktop\poserial\po\pologic.h
+	"popublic.h"
+	"pogenvironment.h"
+	"informationpool.h"
+	"plugin.h"
+
+1388723661 c:\users\bleedingchips\desktop\poserial\po\popublic.h
+	"plugin.h"
+	"extrabuffer.h"
+	"informationpool.h"
+	"threadmessage.h"
+
+1388723662 c:\users\bleedingchips\desktop\poserial\po\plugin.h
+	"handle.h"
+	"threadunit.h"
+	"informationviewer.h"
+
+1388819980 c:\users\bleedingchips\desktop\poserial\po\handle.h
+	<stdio.h>
+
+1388723662 c:\users\bleedingchips\desktop\poserial\po\threadunit.h
+	"pomutex.h"
+	<list>
+	"information.h"
+	"threadmessage.h"
+	"threadpart.h"
+
+1388723663 c:\users\bleedingchips\desktop\poserial\po\pomutex.h
+	<SDL2/SDL_mutex.h>
+
+1389357135 c:\users\bleedingchips\desktop\poserial\po\information.h
+	<list>
+	<string>
+	<vector>
+	<map>
+	<SDL2/SDL_events.h>
+	"handle.h"
+
+1388723662 c:\users\bleedingchips\desktop\poserial\po\threadmessage.h
+	"threadpart.h"
+	<deque>
+
+1388723662 c:\users\bleedingchips\desktop\poserial\po\threadpart.h
+	<deque>
+
+1388723663 c:\users\bleedingchips\desktop\poserial\po\informationviewer.h
+	"information.h"
+	<list>
+	<string>
+	<deque>
+	<map>
+	<set>
+	"informationpool.h"
+
+1388723663 c:\users\bleedingchips\desktop\poserial\po\informationpool.h
+	<set>
+	<deque>
+	"information.h"
+
+1389270643 c:\users\bleedingchips\desktop\poserial\po\extrabuffer.h
+	"threadpart.h"
+
+1389008710 c:\users\bleedingchips\desktop\poserial\po\pogenvironment.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_opengl.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"poerror.h"
+	"language.h"
+	"picturemanager.h"
+	"fontmanager.h"
+
+1388723663 c:\users\bleedingchips\desktop\poserial\po\poerror.h
+
+1388723661 c:\users\bleedingchips\desktop\poserial\po\language.h
+	<string>
+	<windows.h>
+
+1389237215 c:\users\bleedingchips\desktop\poserial\po\picturemanager.h
+	<map>
+	<string>
+	"gltexture.h"
+	<SDL2/SDL_image.h>
+
+1389344725 c:\users\bleedingchips\desktop\poserial\po\gltexture.h
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_opengl.h>
+
+1389355844 c:\users\bleedingchips\desktop\poserial\po\fontmanager.h
+	<map>
+	<vector>
+	<string>
+	"gltexture.h"
+	"utf8string.h"
+	<SDL2/SDL_ttf.h>
+
+1389342664 c:\users\bleedingchips\desktop\poserial\po\utf8string.h
+	<string>
+	<deque>
+	<list>
+
+1389246161 c:\users\bleedingchips\desktop\poserial\po\porender.h
+	<string>
+	<map>
+	"popublic.h"
+	"extrabuffer.h"
+	"threadmessage.h"
+	"pogenvironment.h"
+	"plugin.h"
+
+1389268971 c:\users\bleedingchips\desktop\poserial\po\popicture.h
+	<iostream>
+	"gltexture.h"
+	"baseclass.h"
+	"picturemanager.h"
+	<map>
+	<string>
+
+1388843786 c:\users\bleedingchips\desktop\poserial\po\baseclass.h
+	<math.h>
+	<fstream>
+
+1389357239 c:\users\bleedingchips\desktop\poserial\po\dialogmt.h
+	"handle.h"
+	"dialog.h"
+	"extrabuffer.h"
+	"threadpart.h"
+	"threadmessage.h"
+
+1389508275 c:\users\bleedingchips\desktop\poserial\po\dialog.h
+	"potext.h"
+	"language.h"
+	"utf8string.h"
+
+1389511798 c:\users\bleedingchips\desktop\poserial\po\potext.h
+	"gltexture.h"
+	"baseclass.h"
+	"fontmanager.h"
+	"handle.h"
+	<sstream>
+
+1388723663 c:\users\bleedingchips\desktop\poserial\po\glsimplify.h
+	"baseclass.h"
+
+1393830339 c:\users\bleedingchips\desktop\poserial\poserial.h
+	"po/plugin.h"
+	"po/po.h"
+	"poextre/serialteminal.h"
+	"po/dialogmt.h"
+
+1389452283 c:\users\bleedingchips\desktop\poserial\poextre\serialteminal.h
+	"poserial.h"
+	"../po/scriptionanalyze.h"
+	"../po/handle.h"
+	"../po/scriptionblock.h"
+	"teminaldata.h"
+	<sstream>
+	<deque>
+	<string>
+
+1388723660 c:\users\bleedingchips\desktop\poserial\poextre\poserial.h
+	<windows.h>
+	"../po/pomutex.h"
+	"../po/scriptionanalyze.h"
+	"winserialport.h"
+	"serialtype.h"
+	<sstream>
+
+1388723661 c:\users\bleedingchips\desktop\poserial\po\scriptionanalyze.h
+	<string>
+	<sstream>
+	<deque>
+	<vector>
+
+1388723663 c:\users\bleedingchips\desktop\poserial\poextre\winserialport.h
+	<string>
+
+1388723662 c:\users\bleedingchips\desktop\poserial\poextre\serialtype.h
+	<sstream>
+	<string>
+
+1388723661 c:\users\bleedingchips\desktop\poserial\po\scriptionblock.h
+	"scriptioncomment.h"
+	"handle.h"
+
+1388723662 c:\users\bleedingchips\desktop\poserial\po\scriptioncomment.h
+	"scriptionoperator.h"
+	<fstream>
+
+1388723662 c:\users\bleedingchips\desktop\poserial\po\scriptionoperator.h
+	"scriptionseparate.h"
+
+1388723662 c:\users\bleedingchips\desktop\poserial\po\scriptionseparate.h
+	<fstream>
+	<string>
+	<map>
+	<list>
+	<fstream>
+	<vector>
+	"scriptionanalyze.h"
+
+1388723663 c:\users\bleedingchips\desktop\poserial\poextre\teminaldata.h
+	"poserial.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\begin_code.h
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\close_code.h
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382587624 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1376156342 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156544 c:\users\bleedingchips\desktop\poserial\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949649 source:d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\porender.cpp
+
+1399949649 source:d:\温林达-毕业设计\毕设传输\毕设传输\poserial\textserial.cpp
+	<iostream>
+	"textpicture.h"
+	"poserial.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\textpicture.h
+	"po/po.h"
+	"po/plugin.h"
+	"po/popicture.h"
+	"po/dialogmt.h"
+	"po/glsimplify.h"
+	"po/potext.h"
+	"po/extrabuffer.h"
+	"po/dialog.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\po.h
+	"pologic.h"
+	"porender.h"
+	<string>
+	<map>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\pologic.h
+	"popublic.h"
+	"pogenvironment.h"
+	"informationpool.h"
+	"plugin.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\popublic.h
+	"plugin.h"
+	"extrabuffer.h"
+	"informationpool.h"
+	"threadmessage.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\plugin.h
+	"handle.h"
+	"threadunit.h"
+	"informationviewer.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\handle.h
+	<stdio.h>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\threadunit.h
+	"pomutex.h"
+	<list>
+	"information.h"
+	"threadmessage.h"
+	"threadpart.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\pomutex.h
+	<SDL2/SDL_mutex.h>
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\begin_code.h
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\close_code.h
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\information.h
+	<list>
+	<string>
+	<vector>
+	<map>
+	<SDL2/SDL_events.h>
+	"handle.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\threadmessage.h
+	"threadpart.h"
+	<deque>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\threadpart.h
+	<deque>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\informationviewer.h
+	"information.h"
+	<list>
+	<string>
+	<deque>
+	<map>
+	<set>
+	"informationpool.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\informationpool.h
+	<set>
+	<deque>
+	"information.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\extrabuffer.h
+	"threadpart.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\pogenvironment.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_opengl.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"poerror.h"
+	"language.h"
+	"picturemanager.h"
+	"fontmanager.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\poerror.h
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\language.h
+	<string>
+	<windows.h>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\picturemanager.h
+	<map>
+	<string>
+	"gltexture.h"
+	<SDL2/SDL_image.h>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\gltexture.h
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_opengl.h>
+
+1399949651 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\fontmanager.h
+	<map>
+	<vector>
+	<string>
+	"gltexture.h"
+	"utf8string.h"
+	<SDL2/SDL_ttf.h>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\utf8string.h
+	<string>
+	<deque>
+	<list>
+
+1399949652 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\porender.h
+	<string>
+	<map>
+	"popublic.h"
+	"extrabuffer.h"
+	"threadmessage.h"
+	"pogenvironment.h"
+	"plugin.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\popicture.h
+	<iostream>
+	"gltexture.h"
+	"baseclass.h"
+	"picturemanager.h"
+	<map>
+	<string>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\baseclass.h
+	<math.h>
+	<fstream>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\dialogmt.h
+	"handle.h"
+	"dialog.h"
+	"extrabuffer.h"
+	"threadpart.h"
+	"threadmessage.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\dialog.h
+	"potext.h"
+	"language.h"
+	"utf8string.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\potext.h
+	"gltexture.h"
+	"baseclass.h"
+	"fontmanager.h"
+	"handle.h"
+	<sstream>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\glsimplify.h
+	"baseclass.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\poserial.h
+	"po/plugin.h"
+	"po/po.h"
+	"poextre/serialteminal.h"
+	"po/dialogmt.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\poextre\serialteminal.h
+	"poserial.h"
+	"../po/scriptionanalyze.h"
+	"../po/handle.h"
+	"../po/scriptionblock.h"
+	"teminaldata.h"
+	<sstream>
+	<deque>
+	<string>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\poextre\poserial.h
+	<windows.h>
+	"../po/pomutex.h"
+	"../po/scriptionanalyze.h"
+	"winserialport.h"
+	"serialtype.h"
+	<sstream>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\scriptionanalyze.h
+	<string>
+	<sstream>
+	<deque>
+	<vector>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\poextre\winserialport.h
+	<string>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\poextre\serialtype.h
+	<sstream>
+	<string>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\scriptionblock.h
+	"scriptioncomment.h"
+	"handle.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\scriptioncomment.h
+	"scriptionoperator.h"
+	<fstream>
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\scriptionoperator.h
+	"scriptionseparate.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\po\scriptionseparate.h
+	<fstream>
+	<string>
+	<map>
+	<list>
+	<fstream>
+	<vector>
+	"scriptionanalyze.h"
+
+1399949649 d:\温林达-毕业设计\毕设传输\毕设传输\poserial\poextre\teminaldata.h
+	"poserial.h"
+
+1399949649 source:d:\毕设相关\毕设程序&工具\poserial\po\porender.cpp
+
+1399949649 source:d:\毕设相关\毕设程序&工具\poserial\textserial.cpp
+	<iostream>
+	"textpicture.h"
+	"poserial.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\textpicture.h
+	"po/po.h"
+	"po/plugin.h"
+	"po/popicture.h"
+	"po/dialogmt.h"
+	"po/glsimplify.h"
+	"po/potext.h"
+	"po/extrabuffer.h"
+	"po/dialog.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\po.h
+	"pologic.h"
+	"porender.h"
+	<string>
+	<map>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\pologic.h
+	"popublic.h"
+	"pogenvironment.h"
+	"informationpool.h"
+	"plugin.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\popublic.h
+	"plugin.h"
+	"extrabuffer.h"
+	"informationpool.h"
+	"threadmessage.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\plugin.h
+	"handle.h"
+	"threadunit.h"
+	"informationviewer.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\handle.h
+	<stdio.h>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\threadunit.h
+	"pomutex.h"
+	<list>
+	"information.h"
+	"threadmessage.h"
+	"threadpart.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\pomutex.h
+	<SDL2/SDL_mutex.h>
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\begin_code.h
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\close_code.h
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\information.h
+	<list>
+	<string>
+	<vector>
+	<map>
+	<SDL2/SDL_events.h>
+	"handle.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\threadmessage.h
+	"threadpart.h"
+	<deque>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\threadpart.h
+	<deque>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\informationviewer.h
+	"information.h"
+	<list>
+	<string>
+	<deque>
+	<map>
+	<set>
+	"informationpool.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\informationpool.h
+	<set>
+	<deque>
+	"information.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\extrabuffer.h
+	"threadpart.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\pogenvironment.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_opengl.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"poerror.h"
+	"language.h"
+	"picturemanager.h"
+	"fontmanager.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949652 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_opengl.h
+	"SDL_config.h"
+	<windows.h>
+	<OpenGL/gl.h>
+	<GL/gl.h>
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\poerror.h
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\language.h
+	<string>
+	<windows.h>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\picturemanager.h
+	<map>
+	<string>
+	"gltexture.h"
+	<SDL2/SDL_image.h>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\gltexture.h
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_opengl.h>
+
+1399949651 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\fontmanager.h
+	<map>
+	<vector>
+	<string>
+	"gltexture.h"
+	"utf8string.h"
+	<SDL2/SDL_ttf.h>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\utf8string.h
+	<string>
+	<deque>
+	<list>
+
+1399949652 d:\毕设相关\毕设程序&工具\poserial\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\porender.h
+	<string>
+	<map>
+	"popublic.h"
+	"extrabuffer.h"
+	"threadmessage.h"
+	"pogenvironment.h"
+	"plugin.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\popicture.h
+	<iostream>
+	"gltexture.h"
+	"baseclass.h"
+	"picturemanager.h"
+	<map>
+	<string>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\baseclass.h
+	<math.h>
+	<fstream>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\dialogmt.h
+	"handle.h"
+	"dialog.h"
+	"extrabuffer.h"
+	"threadpart.h"
+	"threadmessage.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\dialog.h
+	"potext.h"
+	"language.h"
+	"utf8string.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\potext.h
+	"gltexture.h"
+	"baseclass.h"
+	"fontmanager.h"
+	"handle.h"
+	<sstream>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\glsimplify.h
+	"baseclass.h"
+
+1402234422 d:\毕设相关\毕设程序&工具\poserial\poserial.h
+	"po/plugin.h"
+	"po/po.h"
+	"poextre/serialteminal.h"
+	"po/dialogmt.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\poextre\serialteminal.h
+	"poserial.h"
+	"../po/scriptionanalyze.h"
+	"../po/handle.h"
+	"../po/scriptionblock.h"
+	"teminaldata.h"
+	<sstream>
+	<deque>
+	<string>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\poextre\poserial.h
+	<windows.h>
+	"../po/pomutex.h"
+	"../po/scriptionanalyze.h"
+	"winserialport.h"
+	"serialtype.h"
+	<sstream>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\scriptionanalyze.h
+	<string>
+	<sstream>
+	<deque>
+	<vector>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\poextre\winserialport.h
+	<string>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\poextre\serialtype.h
+	<sstream>
+	<string>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\scriptionblock.h
+	"scriptioncomment.h"
+	"handle.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\scriptioncomment.h
+	"scriptionoperator.h"
+	<fstream>
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\scriptionoperator.h
+	"scriptionseparate.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\po\scriptionseparate.h
+	<fstream>
+	<string>
+	<map>
+	<list>
+	<fstream>
+	<vector>
+	"scriptionanalyze.h"
+
+1399949649 d:\毕设相关\毕设程序&工具\poserial\poextre\teminaldata.h
+	"poserial.h"
+
